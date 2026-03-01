@@ -14,5 +14,3 @@ Bağlantı kurarak, teknoloji dünyasındaki değişimleri paylaşan ve işbirli
 </p>
 <p align="left">
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frknynchr&show_icons=true&locale=en&layout=compact" alt="frknynchr" /></p>
