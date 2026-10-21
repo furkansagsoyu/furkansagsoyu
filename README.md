@@ -74,15 +74,16 @@ class Furkan:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Jarvis</h3>
-      <p>Tamamen yerel çalışan, Türkçe konuşan kişisel sesli asistan. "Hey Jarvis" ile uyanır; takvim ve görev yönetimi, komuta merkezi paneli, çoklu ajan ekip modu, kod ajanı ve telefon üzerinden sesli arama yapabilir.</p>
+      <h3>🤖 <a href="https://github.com/furkansagsoyu/jarvis">Jarvis</a></h3>
+      <p>Tamamen yerel ve ücretsiz çalışan, Türkçe konuşan masaüstü sesli asistan. "Hey Jarvis" ile uyanır; tarayıcıyı, fareyi ve klavyeyi kontrol eder, ekranı ve kamerayı görür, web'de araştırma yapar, çok adımlı görevleri planlar. Riskli işlemler için sesli onay ister.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
         <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       </p>
-      <p><i>🔒 Geliştirme devam ediyor — repo yakında herkese açık</i></p>
+      <p><i>🚧 Sırada (v2): takvim & görevler, komuta merkezi paneli, çoklu ajan modu, telefonla sesli arama</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>⏱️ <a href="https://github.com/furkansagsoyu/dev-pomodoro">Dev Pomodoro</a></h3>
