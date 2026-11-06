@@ -122,11 +122,6 @@ class Furkan:
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=furkansagsoyu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&locale=tr" alt="GitHub istatistikleri" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkansagsoyu&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=tr" alt="En çok kullanılan diller" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=furkansagsoyu&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&locale=tr" alt="GitHub seri istatistikleri" />
 </p>
 
