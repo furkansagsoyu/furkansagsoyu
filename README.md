@@ -109,12 +109,13 @@ class Furkan:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/furkansagsoyu/TheGame">The Game</a></h3>
-      <p>Okul dersi kapsamında geliştirdiğim 2D oyun. Görselleri kendim çizdim.</p>
+      <h3>🖼️ <a href="https://github.com/furkansagsoyu/uvaia">Uvaia</a></h3>
+      <p>Linux Mint Cinnamon için yerel, sürükle-bırak dosya dönüştürme aracı. Görsel, PDF, video, ses ve arşiv işlemlerini tek pencerede toplar: format dönüştürme, kırpma, sıkıştırma, PDF birleştirme/bölme, Tesseract ile yerel OCR, QR okuma ve daha fazlası. Nemo'nun sağ tık menüsüne eklenir, dosyayı sürüklerken Shift ile açılan çarktan dönüştürme biçimi seçilir.</p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sketchbook-C8102E?style=flat-square&logo=autodesk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tesseract%20OCR-4B5563?style=flat-square" />
+        <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white" />
       </p>
     </td>
   </tr>
